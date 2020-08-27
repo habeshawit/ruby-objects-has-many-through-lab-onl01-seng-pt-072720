@@ -17,6 +17,7 @@ class Doctor
     new_appt.doctor = self
   end
   
+  def patients 
   
     
   end
