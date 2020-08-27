@@ -3,6 +3,8 @@ class Appointment
   
   @@all = []
   
+  d
+  
   
   def self.all 
     @@all
